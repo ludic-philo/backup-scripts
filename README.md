@@ -1,4 +1,5 @@
 backup-scripts
 ==============
 
-Scripts for backing up all ludic philosophy resources
+Scripts for backing up local and networked resources
+
